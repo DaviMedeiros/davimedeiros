@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Davi Medeiros 👋
 
-<!--
-**DaviMedeiros/davimedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos e estudos focados em desenvolvimento frontend.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor com mais de 6 anos de experiência
+- ⚛️ Focado em aprimorar minhas habilidades em **React.js** e **Node.js**
+- 📚 Atualmente estudando **Next.js** e **React Native**
+
+## 🛠️ Tecnologias que utilizo
+
+- **Linguagens:** JavaScript, TypeScript
+- **Frontend:** React.js, Styled Components, HTML, CSS
+- **Backend:** Node.js e Delphi
+- **Outros:** Delphi
+
+## 📌 Projetos em destaque
+
+🔹 [Coffee Delivery](https://github.com/davimedeiros/coffee-delivery-react) - Projeto de estudo feito como desafio pela Rocketseat com React.js e Styled Components
+🔹 [DT Money](https://github.com/DaviMedeiros/dt-money) - Projeto de estudo feito através das aulas da Rocketseat com React.js e Styled Components
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/davi-medeiros](https://linkedin.com/in/davi-medeiros-763b24148)
+
+Fique à vontade para explorar meus repositórios! 🚀
