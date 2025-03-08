@@ -18,6 +18,7 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos e estudo
 ## 📌 Projetos em destaque
 
 🔹 [Coffee Delivery](https://github.com/davimedeiros/coffee-delivery-react) - Projeto de estudo feito como desafio pela Rocketseat com React.js e Styled Components
+
 🔹 [DT Money](https://github.com/DaviMedeiros/dt-money) - Projeto de estudo feito através das aulas da Rocketseat com React.js e Styled Components
 
 ## 📫 Como me encontrar
