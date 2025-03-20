@@ -13,7 +13,6 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos e estudo
 - **Linguagens:** JavaScript, TypeScript
 - **Frontend:** React.js, Styled Components, HTML, CSS
 - **Backend:** Node.js e Delphi
-- **Outros:** Delphi
 
 ## 📌 Projetos em destaque
 
